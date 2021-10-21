@@ -1,15 +1,15 @@
 [submodule "fletcher-oc-accel-installscripts"]
 path = fletcher-oc-accel-installscripts
 url = https://github.com/joosthooz/fletcher-oc-accel-installscripts
-
 [submodule "labs/lab1_oc-accel/oc-accel-tutorial"]
 path = labs/lab1_oc-accel/oc-accel-tutorial
 url = https://github.com/joosthooz/oc-accel-tutorial.git
-
 [submodule "labs/lab2_arrow/arrow-intro"]
 path = labs/lab2_arrow/arrow-intro
 url = https://github.com/johanpel/arrow-intro
-
 [submodule "labs/lab3_fletcher/fletcher-oc-accel-tutorial"]
 	path = labs/lab3_fletcher/fletcher-oc-accel-tutorial
 	url = https://github.com/joosthooz/fletcher-oc-accel-tutorial
+	[submodule "labs/lab4_hls/xray-detector-hls-example"]
+	path = labs/lab4_hls/xray-detector-hls-example
+	url = https://github.com/fleon-psi/xray-detector-hls-example
