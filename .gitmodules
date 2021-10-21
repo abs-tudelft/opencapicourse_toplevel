@@ -9,3 +9,7 @@ url = https://github.com/joosthooz/oc-accel-tutorial.git
 [submodule "labs/lab2_arrow/arrow-intro"]
 path = labs/lab2_arrow/arrow-intro
 url = https://github.com/johanpel/arrow-intro
+
+[submodule "labs/lab3_fletcher/fletcher-oc-accel-tutorial"]
+	path = labs/lab3_fletcher/fletcher-oc-accel-tutorial
+	url = https://github.com/joosthooz/fletcher-oc-accel-tutorial
